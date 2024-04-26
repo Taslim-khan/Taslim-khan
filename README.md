@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Taslim khan</h1>
+<h1 align="center">Hi I am Taslim khan 👋
+I'm a DevOps engineer passionate about building scalable and reliable infrastructure using cloud-native technologies.
+</h1>
 <h3 align="center">A passionate Dev_Ops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslim-khan&label=Profile%20views&color=0e75b6&style=flat" alt="taslim-khan" /> </p>
